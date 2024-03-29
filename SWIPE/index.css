@@ -919,7 +919,6 @@ main{
     padding: 16px 0;
     transition: transform 0.8s;
     border-bottom-left-radius: 12px;
-    border-bottom-right-radius: 12px;
 }
 .mobileNav .primary-button {
     margin-top: 12px;
